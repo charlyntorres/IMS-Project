@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E8EBF3;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+h1, h5 {
+    color: #000;
+    font-weight: 600;
+    justify-self: center;
+    padding: 10px;
+}
+
+.add-btn-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 99px;
+}
+
+.add-item-btn {
+    outline: 1.5px solid #000;
+}
+
+table {
+    margin-top: 10px;
+    color: #E8EBF3 !important;
+}
+
+table thead th {
+    background-color: #A70014 !important;
+    color: white !important;
+}
